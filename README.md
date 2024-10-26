@@ -60,4 +60,34 @@ Inside the loop, it prompts the user for their answer and checks it against the 
 Feedback is provided based on whether the user’s answer is correct.
 ---------------------------------------------------------------------------------------------------
 Friday Project Five
+Functions:
+Each function (red_text(), blue_text(), green_text(), yellow_text(), brown_text()) will take one parameter: text.
+Each function will use ANSI escape codes to add color formatting to the input text and return the formatted string.
+Variables:
 
+text: The parameter for each function, which stores the user-inputted string to be displayed in color.
+color_choice: Stores the color selected by the user in the main program logic.
+user_text: Stores the text input provided by the user that will be colored based on their selection.
+Main Program Logic:
+
+Each color function is called and demonstrated by printing sample text in the respective color.
+The program then prompts the user to choose a color and enter text to be displayed.
+Using conditional statements, the program calls the appropriate function based on the user's color choice and prints the colored text.
+---------------------------------------------------------------------------------------------------
+Friday Project Six
+Class and Attributes:
+BankAccount class has three attributes:
+self: Represents the instance of the object itself.
+account_number: Stores the account number for the bank account.
+balance: Stores the current balance of the account.
+Methods:
+
+deposit(): Takes an amount as input, adds it to the balance, and updates the account.
+withdraw(): Takes an amount as input, checks if the balance is sufficient, and subtracts the amount if possible.
+check_balance(): Returns the current balance of the account.
+Variables in the Loop:
+
+user_account_number: Stores the account number entered by the user for validation.
+action: Stores the user's choice for deposit, withdrawal, or balance check.
+amount: Stores the amount for deposit or withdrawal based on the user’s action.
+---------------------------------------------------------------------------------------------------
