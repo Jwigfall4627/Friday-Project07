@@ -75,3 +75,19 @@ The program then prompts the user to choose a color and enter text to be display
 Using conditional statements, the program calls the appropriate function based on the user's color choice and prints the colored text.
 ---------------------------------------------------------------------------------------------------
 Friday Project Six
+Class and Attributes:
+BankAccount class has three attributes:
+self: Represents the instance of the object itself.
+account_number: Stores the account number for the bank account.
+balance: Stores the current balance of the account.
+Methods:
+
+deposit(): Takes an amount as input, adds it to the balance, and updates the account.
+withdraw(): Takes an amount as input, checks if the balance is sufficient, and subtracts the amount if possible.
+check_balance(): Returns the current balance of the account.
+Variables in the Loop:
+
+user_account_number: Stores the account number entered by the user for validation.
+action: Stores the user's choice for deposit, withdrawal, or balance check.
+amount: Stores the amount for deposit or withdrawal based on the user’s action.
+---------------------------------------------------------------------------------------------------
