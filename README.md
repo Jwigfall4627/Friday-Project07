@@ -27,7 +27,6 @@ Output:
 
 Finally, the program prints the entire story with the user's words filled in, giving them a unique and humorous tale.
 This code is fully functional, and users only need to run the program to get started on their Mad Lib adventure.
-
 ---------------------------------------------------------------------------------------------------
 Friday Project Two
 Greeting:
