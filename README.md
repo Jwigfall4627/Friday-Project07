@@ -44,4 +44,15 @@ Output:
 Finally, the program prints the complete ticket in the desired format.
 ---------------------------------------------------------------------------------------------------
 Friday Project Three
+trivia_questions: Stores the trivia questions as keys and their respective answers as values.
+
+user_answer: Stores the user’s input for each question in the loop.
+
+correct_answer: Temporarily holds the correct answer for each question during the loop to check against user_answer.
+Loop and Conditional Statements:
+
+The for loop iterates over each key-value pair in the dictionary.
+Inside the loop, it prompts the user for their answer and checks it against the correct answer.
+Feedback is provided based on whether the user’s answer is correct.
+---------------------------------------------------------------------------------------------------
 
