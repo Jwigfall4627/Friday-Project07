@@ -27,3 +27,22 @@ Output:
 
 Finally, the program prints the entire story with the user's words filled in, giving them a unique and humorous tale.
 This code is fully functional, and users only need to run the program to get started on their Mad Lib adventure.
+
+---------------------------------------------------------------------------------------------------
+Friday Project Two
+Greeting:
+The program prints a message explaining its purpose to the user.
+Random Number Generation:
+
+main_numbers: The program generates a list of five numbers between 1 and 69 using randint.
+powerball: It then generates one Powerball number between 1 and 26.
+Formatting:
+
+The main numbers are joined by a single space (" ".join(map(str, main_numbers))).
+Three spaces are added between the main numbers and the Powerball number.
+Output:
+
+Finally, the program prints the complete ticket in the desired format.
+---------------------------------------------------------------------------------------------------
+Friday Project Three
+
