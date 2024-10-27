@@ -1,6 +1,6 @@
 # Friday-Project07
 Hello, this is my friday project 7 containing all of the other previous weeks friday projects 1-6. 
----------------------------------------------------------------------------------------------------
+
 Friday Project One (I hope this is what you were asking in the instructions) 
 
 Variables:
@@ -26,7 +26,7 @@ The story variable contains the completed Mad Lib.
 Output:
 
 Finally, the program prints the entire story with the user's words filled in, giving them a unique and humorous tale.
-This code is fully functional, and users only need to run the program to get started on their Mad Lib adventure.
+This code is fully functional, and users only need to run the program to get started on thier mad lib adventure.
 ---------------------------------------------------------------------------------------------------
 Friday Project Two
 Greeting:
