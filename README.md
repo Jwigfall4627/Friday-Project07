@@ -27,8 +27,9 @@ Output:
 
 Finally, the program prints the entire story with the user's words filled in, giving them a unique and humorous tale.
 This code is fully functional, and users only need to run the program to get started on thier mad lib adventure.
----------------------------------------------------------------------------------------------------
+
 Friday Project Two
+---------------------------------------------------------------------------------------------------
 Greeting:
 The program prints a message explaining its purpose to the user.
 Random Number Generation:
