@@ -30,8 +30,9 @@ This code is fully functional, and users only need to run the program to get sta
 
 Friday Project Two
 ---------------------------------------------------------------------------------------------------
-Greeting:
-The program prints a message explaining its purpose to the user.
+Variables and functionality: 
+
+Greeting: The program prints a message explaining its purpose to the user.
 Random Number Generation:
 
 main_numbers: The program generates a list of five numbers between 1 and 69 using randint.
@@ -72,6 +73,8 @@ If the initial answer is not "Yes", the program does nothing further. The "Pleae
 
 Friday Project Four
 ---------------------------------------------------------------------------------------------------
+Variables and functionality:
+
 trivia_questions: Stores the trivia questions as keys and their respective answers as values.
 
 user_answer: Stores the user’s input for each question in the loop.
@@ -85,6 +88,8 @@ Feedback is provided based on whether the user’s answer is correct.
 
 Friday Project Five
 ---------------------------------------------------------------------------------------------------
+Variables and functionality: 
+
 Functions:
 Each function (red_text(), blue_text(), green_text(), yellow_text(), brown_text()) will take one parameter: text.
 Each function will use ANSI escape codes to add color formatting to the input text and return the formatted string.
@@ -101,6 +106,7 @@ Using conditional statements, the program calls the appropriate function based o
 
 Friday Project Six
 ---------------------------------------------------------------------------------------------------
+Variables and functionality: 
 Class and Attributes:
 BankAccount class has three attributes:
 self: Represents the instance of the object itself.
