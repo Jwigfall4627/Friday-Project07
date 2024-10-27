@@ -1,7 +1,7 @@
 # Friday-Project07
 Hello, this is my friday project 7 containing all of the other previous weeks friday projects 1-6. 
 
-Friday Project One (I hope this is what you were asking in the instructions) 
+Friday Project One
 ---------------------------------------------------------------------------------------------------
 Variables:
 large_object: Stores a single large object (e.g., "airplane").
