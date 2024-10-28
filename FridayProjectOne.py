@@ -22,4 +22,3 @@ They ate {food1} and {food2} until they were stuffed and lived happily ever afte
 
 # Display the completed Mad Lib story
 print("\nHere's your Mad Lib story!")
-print(story)
